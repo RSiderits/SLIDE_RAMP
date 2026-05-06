@@ -6,7 +6,7 @@ The Microscope Slide Label Removal Holder is a 3D-printable
 laboratory engineering control designed to safely stabilize a 
 standard 25 × 75 mm glass microscope slide during removal of 
 adhesive-backed slide labels. The device was developed by the 
-DLS Safety Committee under the leadership of Richard Siderits MD, 
+DLS Safety Committee under the leadership of Dr. Richard Siderits, 
 to reduce the risks associated with simultaneous handling of 
 two recognized “sharps”: a razor blade and a glass microscope slide.
 
@@ -28,9 +28,7 @@ The STL is freely available for non-commercial laboratory safety applications.
 
 Download Instructions
 
-The STL file may be downloaded from:
-
-GitHub Download
+The STL file may be downloaded from: GitHub Download
 Navigate to the project repository on GitHub
 Open the folder containing Label_Remover.stl
 Click the file name
@@ -40,6 +38,8 @@ Generic 3D Printing Guidance
 
 This STL is compatible with most standard 
 FDM (Fused Deposition Modeling) printers.
+
+ROTATE 90 DEGREES TO PRINT WITHOUT SuPPORTS.
 
 Recommended Starting Parameters
 Setting	Recommended Value
