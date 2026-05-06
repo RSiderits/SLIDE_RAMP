@@ -39,10 +39,12 @@ Generic 3D Printing Guidance
 This STL is compatible with most standard 
 FDM (Fused Deposition Modeling) printers.
 
-ROTATE 90 DEGREES TO PRINT WITHOUT SuPPORTS.
+ROTATE THE MODEL 90 DEGREES TO 3D PRINT WITHOUT SUPPORTS.
 
-Recommended Starting Parameters
-Setting	Recommended Value
+Recommended Starting Parameters:
+
+Setting	Recommended Values
+
 Material	PLA
 Layer Height	0.20 mm
 Infill	15%
@@ -57,6 +59,7 @@ Confirm dimensions fit a standard microscope slide.
 Verify that no support structures are automatically added.
 After Printing
 Allow the print to cool completely before removal.
+
 Inspect for:
 Cracks
 Sharp edges
@@ -64,6 +67,7 @@ Warping
 Incomplete guide rails
 Remove any minor burrs before laboratory use.
 Test fit with a non-critical blank slide before operational deployment.
+
 Recommended Materials
 PLA – easiest, low warping, suitable for bench use
 PETG – greater chemical resistance
